@@ -3,15 +3,15 @@
 A comprehensive Python-based film/show management system built with Object-Oriented Programming (OOP) principles. Manage your personal watchlist, track watched shows, get personalized recommendations, and analyze your viewing statistics.
 
 ## 📋 Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Technologies & Libraries](#technologies--libraries)
-- [OOP Concepts Used](#oop-concepts-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [File Structure](#file-structure)
-- [Data Persistence](#data-persistence)
-- [Examples](#examples)
+- [Overview]
+- [Features]
+- [Technologies & Libraries]
+- [OOP Concepts Used]
+- [Installation]
+- [Usage]
+- [File Structure]
+- [Data Persistence]
+- [Examples]
 
 ## 🎯 Overview
 
