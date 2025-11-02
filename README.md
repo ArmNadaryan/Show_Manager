@@ -144,34 +144,6 @@ def from_dict(cls, data: Dict) -> 'Show':
 - Collection types (List, Dict, Optional)
 - Improved code readability and IDE support
 
-## 📥 Installation
-
-### Prerequisites
-- Python 3.7 or higher
-
-### Setup Steps
-
-1. **Clone or Download the Project**
-```bash
-git clone <repository-url>
-cd film-manager
-```
-
-2. **Verify Python Installation**
-```bash
-python --version
-# or
-python3 --version
-```
-
-3. **Run the Program**
-```bash
-python Film_Manager.py
-# or
-python3 Film_Manager.py
-```
-
-No additional package installation required!
 
 ## 🚀 Usage
 
